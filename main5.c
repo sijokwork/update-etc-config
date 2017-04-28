@@ -10,7 +10,7 @@
     | | | | | | | ___ | | | | ___  \   /
     |_| |_|_|_|_|____)|_| |_|____) /_/\_\
  *  Copyright (C) 2016 - 2017 Timeflex Data pvt ltd
- * deguslem_uart.h
+ *
  *
  *   Maintainer: Sijo k saju
  *	 Usage:
